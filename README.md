@@ -1,4 +1,4 @@
-<h1 align="center">Open-Source Security Operations Center (SOC)</h1>
+<h1 align="center">Open-Source SOC</h1>
 
 <details>
 <summary>Table of Contents</summary>
@@ -15,13 +15,10 @@
 
 ## About
 
-This project was developed as part of my Bachelor's thesis. It represents a significant effort to create a comprehensive, **open-source** solution for cybersecurity operations, making advanced security tools accessible to a broader audience.
-
-All the tools used for this project are Open-Source and free.
-
+This academic project aims to provide a comprehensive open-source solution for cybersecurity operations, with the objective of making advanced security tools accessible to a wider audience. All components used in this project are open-source and free.
 ## Project Goal
 
-The primary objective of this project is to develop a fully operational Security Operations Center (SOC) using open-source tools. The goal is to containerize these tools, enabling users to deploy the entire SOC with a single click. By leveraging Docker, this project ensures seamless deployment across various environments, making the SOC portable and easy to use.
+The main objective of this project is to build a fully functional Security Operations Center (SOC) using open-source tools, all containerized for one-click deployment. Leveraging Docker, the SOC can be seamlessly deployed across diverse environments, ensuring portability and ease of use.
 
 ## Installation
 
@@ -29,7 +26,7 @@ To install the SOC follow the Installation Guide [here](https://github.com/Dorra
 
 ## What is a SOC?
 
-A Security Operations Center (SOC) is a centralized unit within an organization responsible for monitoring, detecting, analyzing, and responding to cybersecurity incidents. It acts as the nerve center for a company's cybersecurity efforts, combining people, processes, and technology to safeguard the organization's assets from cyber threats. SOC teams utilize various tools and techniques to continuously monitor networks, systems, and applications for malicious activity, playing a vital role in mitigating and remediating security incidents.
+A Security Operations Center (SOC) is a centralized unit responsible for monitoring, detecting, analyzing, and responding to cybersecurity incidents. It serves as the nerve center for an organization’s cybersecurity, combining people, processes, and technology to protect digital assets. SOC teams use various tools and techniques to continuously monitor networks, systems, and applications, playing a key role in mitigating and resolving security threats.
 
 <p align="center">
   <img src="./soc-principals.png" alt="SOC Overview" />
@@ -48,5 +45,5 @@ You can find the technology stack [here](./technology_stack.md)
 Contributions are welcomed! If you have ideas, improvements, or fixes, feel free to open an issue or submit a pull request.
 
 
-Thank you for visiting!!
+Thank you for visiting!
 
