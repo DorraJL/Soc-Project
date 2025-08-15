@@ -25,7 +25,7 @@ The primary objective of this project is to develop a fully operational Security
 
 ## Installation
 
-To install the SOC follow the Installation Guide [here](./SOC Implementation Guide/README.md)
+To install the SOC follow the Installation Guide [here]([./SOC_Implementation_Guide/README.md])
 
 ## What is a SOC?
 
