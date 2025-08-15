@@ -25,7 +25,7 @@ The primary objective of this project is to develop a fully operational Security
 
 ## Installation
 
-To install the SOC follow the Installation Guide [here](https://github.com/phrp720/soc-toolkit/blob/main/S.O.C/README.md)
+To install the SOC follow the Installation Guide [here]()
 
 ## What is a SOC?
 
@@ -41,11 +41,7 @@ A Security Operations Center (SOC) is a centralized unit within an organization 
   <img src="./soc_architecture_diagram.png" alt="SOC Architecture Diagram" />
 </p>
 
-You can find the technology stack [here](https://github.com/phrp720/soc-toolkit/blob/main/technology_stack.md)
-
-> [!Warning]
->
-> This project involves the use of multiple Docker images, each requiring substantial computational resources for optimal performance. If your system does not have sufficient resources (CPU, RAM, and storage), there is a risk of instability or crashes. It is strongly recommended to ensure your system meets the necessary resource requirements before deploying these images.
+You can find the technology stack [here])
 
 ## Contributing
 
