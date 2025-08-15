@@ -25,7 +25,7 @@ The primary objective of this project is to develop a fully operational Security
 
 ## Installation
 
-To install the SOC follow the Installation Guide [here]()
+To install the SOC follow the Installation Guide [here](https://github.com/DorraJL/Soc-Project/blob/118dae2e5033b57f766a6f8e2f10a78166021e55/SOC%20Implementation%20Guide/README.md)
 
 ## What is a SOC?
 
@@ -41,7 +41,7 @@ A Security Operations Center (SOC) is a centralized unit within an organization 
   <img src="./soc_architecture_diagram.png" alt="SOC Architecture Diagram" />
 </p>
 
-You can find the technology stack [here])
+You can find the technology stack [here](https://github.com/DorraJL/Soc-Project/blob/118dae2e5033b57f766a6f8e2f10a78166021e55/technology_stack.md)
 
 ## Contributing
 
