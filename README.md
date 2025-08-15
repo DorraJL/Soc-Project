@@ -25,7 +25,7 @@ The primary objective of this project is to develop a fully operational Security
 
 ## Installation
 
-To install the SOC follow the Installation Guide [here]([./SOC_Implementation_Guide/README.md])
+To install the SOC follow the Installation Guide [here](https://github.com/DorraJL/Soc-Project/blob/959381070c241f494ccb8680cb04671a364e3f57/SOC%20Implementation%20Guide/README.md)
 
 ## What is a SOC?
 
